@@ -1,8 +1,8 @@
 ![I am nahiyan-mahmud](https://github.com/nahiyan-mahmud/nahiyan-mahmud/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm NAHIYAN MAHMUD</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h3 align="center">Programmer | Web Developer | Speed Learner</h3>
+<h4 align="center">I am 15 years old </h4>
 
 <div align="center">
 
@@ -18,7 +18,7 @@ Skills: PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 💬 Ask me about **FULL STACK WEB DEVELOPMENT**
 
 - 📫 How to reach me **nahiyanmahmud99@gmail.com**
 
