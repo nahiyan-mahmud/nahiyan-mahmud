@@ -8,8 +8,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=nahiyan-mahmud&color=red)
 
-Skills: PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
-
+Skills: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, Python, Django, Git, GitHub
 </div>
 
 - 🔭 I’m currently learning FULL STACK WEB DEVELOPMENT from  [Hablu Programmer](https://www.hablu-programmer.com/)
