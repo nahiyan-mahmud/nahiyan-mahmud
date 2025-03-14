@@ -1,4 +1,4 @@
-![I am nahiyan-mahmud](https://github.com/harun181/harun181/blob/main/code.png)
+![I am nahiyan-mahmud](https://github.com/nahiyan-mahmud/nahiyan-mahmud/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm NAHIYAN MAHMUD</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
@@ -8,11 +8,11 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=nahiyan-mahmud&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently learning full stack web development  [Hablu Programmer](https://www.hablu-programmer.com/)
 
 - 🌱 I’m currently learning Golang, Java, C++
 
@@ -82,8 +82,8 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 ## Github Stats -
 
 <p align="center">
-  <a href="https://github.com/harun181">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harun181&theme=radical" alt="Harun's GitHub Contribution"/>
+  <a href="https://github.com/nahiyan-mahmud">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahiyan-mahmud&theme=radical" alt="Nahiyan's GitHub Contribution"/>
   </a>
 </p>
 
