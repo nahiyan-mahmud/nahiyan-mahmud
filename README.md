@@ -12,9 +12,7 @@ Skills: PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently learning full stack web development  [Hablu Programmer](https://www.hablu-programmer.com/)
-
-- 🌱 I’m currently learning Golang, Java, C++
+- 🔭 I’m currently learning FULL STACK WEB DEVELOPMENT from  [Hablu Programmer](https://www.hablu-programmer.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/nahiyan-mahmud](https://github.com/nahiyan-mahmud)
 
